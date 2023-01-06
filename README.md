@@ -47,6 +47,7 @@ https://ahrefs.com/blog/seo-checklist/
 
 Keyword Research: Find out what words people are inputting into SE.
 
+!Important
 How to choose keywords:
 
 - Check if they keyword has search demand - by finding search volume
@@ -70,3 +71,35 @@ Identifying is easy:
 
 - search the keyword
 - analyze top ranking result
+
+3Cs of search intent:
+
+- content type (blog posts, videos, product pages, category pages, landing pages)
+- content format (mostly for blog posts and landing pages): how to guides, step by step tutorials, list posts, opinion editorials. For landing pages it can be a tool or calculator
+- content angle (why someone should click) example: current year, for beginners, best price
+
+## How to find keywords for your site
+
+Keyword research: process of finding keywords that people are searching for
+2 Macro steps:
+
+- generate keywords ideas
+- validate whether they are good
+
+Keyword Research Tools:
+
+- show you information on keywords
+  - search volume
+  - keyword difficutly scores
+  - other SEO metrics
+- they help you discover topics worth going after
+
+Step by step:
+
+- come up with a list of seed keywords (it's a broad keyword in your niche) (you can use free ahrefs generator)
+- look at ahrefs tool
+- look for trafic volume (you can use free ahrefs serp checker)
+- look for business potential
+- use keyword modifiers (for example add "best" "new" or "top" to a list of products)
+
+Another way is to find what drives traffic to your competitors.
