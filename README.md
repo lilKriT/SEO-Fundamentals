@@ -103,3 +103,38 @@ Step by step:
 - use keyword modifiers (for example add "best" "new" or "top" to a list of products)
 
 Another way is to find what drives traffic to your competitors.
+
+## Ranking Difficulty
+
+Know your opponents are.
+Pages that rank top of google for your keywords.
+
+3 things to consider:
+
+- search intent
+- metrics of top ranks
+- topical authority
+
+### Search intent
+
+Do the top sites fail to match search intent?
+Do the url / title match the search query?
+
+### Metrics
+
+Number of websites linking to this page (aka Referring Domains)
+Website authority (aka domain rating)
+Aim to compete against pages iwth similar DR
+You can use free ahrefs authority checker
+
+### Topical authority
+
+For example a website specifically about one topic will outrank other websites (even if their DR is higher)
+To judge that? Look at the Domain Names and use common sense.
+
+Ask your self if you can compete in the 4 areas. If you have more yes than no, go for it.
+
+- Do the top sites fail to match search intent?
+- you can get quality backlinks?
+- can you get same or higher DR?
+- can you get more topical authority than the comptetitors?
