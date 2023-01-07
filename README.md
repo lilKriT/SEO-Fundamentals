@@ -163,3 +163,56 @@ There's a lot of conflicting advice.
   - Internal Linking
   - Readability
   - Content
+
+## Optimizing for a keyword
+
+You need:
+
+- a page optimized to rank
+- Backlinks
+
+To do:
+
+- Ensure your page satisfies searcher intent. (3C)
+- Actual Content
+
+### Content Aspects
+
+What to write about?
+Learn from your competitors.
+If google thinks they are good, they must be doing something good.
+
+You can use free SERP Checker.
+
+- Look up your phrase.
+- Pick top 3 relevant results. (keyword, relevant)
+- Look for similarities between them. Not just the basic stuff (each page has a list and pictures...) but also more intricate. For example "All the products are aimed at beginners". This doesn't mean you MUST include them.
+- Do a "Content Gap Analysis" before you start writing.
+- Skim through the list and find an interesting subtopic
+
+### Content Gap Analysis
+
+It means "look for what the winners are doing that you are NOT doing yet". For example, what are all the top ranked pages using as keywords?
+
+### Technical Aspects
+
+- Include target keyword in your title when it makes sense
+- Use short and descriptive URL slug. Using subfolders as categories is up to you.
+- Meta description. HTML Code that summarizes your page. It usually shows up under SERP.
+  They generally aren't used for ranking, but they can increase click through rates. But don't spend too much time on it, google rewrites around 67% of them.
+- Add internal links to and from your page. Internal link is a link from one page to another in the SAME DOMAIN. Very powerful, they can pass link authority to other relevant pages. They help SE better understand page content. You can use ahrefs tools for that.
+- Optimize images:
+  - Name your images appropriately. Puppy > IMG 12332132123
+  - Use Descriptive Alt Text. Puppy sitting on a couch > Puppy
+  - Compress Images. You can use ShortPixel. I prefer Squoosh
+- Optimize for readability:
+  - Short sentences, short paragraphs.
+  - Use Descriptive Subheadings.
+  - Use a large enough font.
+  - Avoid using big words.
+  - Write as you speak. (Hemingway App can help)
+
+Other optimizations:
+
+- Open graph meta tags, aka OG tags - it helps with how your website looks on social media
+- Schema Markup - it's how you are represented in Search Results.
