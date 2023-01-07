@@ -138,3 +138,28 @@ Ask your self if you can compete in the 4 areas. If you have more yes than no, g
 - you can get quality backlinks?
 - can you get same or higher DR?
 - can you get more topical authority than the comptetitors?
+
+# On-Page SEO
+
+Practice of optimizing web pages to rank higher in SE.
+Revoles mostly around optimizing for search intent.
+It also depends on creating and optimizing html tags and meta descriptions.
+
+There's a lot of conflicting advice.
+
+## On-Page SEO is NOT
+
+- Stuffing exact match keywords (adding your keywords everywhere you can) - google understands connecting words, synonyms and closely related words. It usually leads to poor UX.
+- using your keywords a specific number of times
+- meeting a minimum word count
+
+## On-Page SEO IS
+
+- the goal of your page is to satisfy the searchers intent
+- your content needs to address the things people expect to see
+- nail items like:
+  - Titles
+  - Subtitles
+  - Internal Linking
+  - Readability
+  - Content
