@@ -230,3 +230,47 @@ Don't try to make "friends" just to get backlinks. But your best backlinks will 
 A better definition: Process of building relationships with other site owners who will want to add links to your website because it enhances theirs.
 
 PageRank is used for that.
+
+## Link Building Strategies and Tactics
+
+Strategy - higher level.
+Tactics - micro, smaller steps.
+
+3 Main Strategies:
+
+- create
+- buy
+- earn
+
+### Creating backlinks
+
+Manually add links on one domain, back to yours.
+
+- Directories
+- Blog Comments
+- Social Media profile
+
+Difficutly: easy
+Effectiveness: low
+
+### Buying backlinks
+
+Pay webmasters or authors for a backlink.
+Against google guidelines. Can result in a penalty!
+Kinda expensive.
+
+Difficulty: depends on your wallet
+Effectiveness: Very effective until you get caught.
+Generally, not worth the effort.
+
+### Earning backlinks
+
+- Email outreach
+- Becoming a source for an online publication or media outlet
+- Earn them organically (someone sees your website or profile, decides to share)
+
+This is the best idea, but it takes a lot of fame, good brand, very good content and existing exposure.
+
+The harder it is to obtain a link, the more valuable it is.
+
+Some links can actually be harmful.
