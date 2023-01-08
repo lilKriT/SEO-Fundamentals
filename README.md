@@ -274,3 +274,24 @@ This is the best idea, but it takes a lot of fame, good brand, very good content
 The harder it is to obtain a link, the more valuable it is.
 
 Some links can actually be harmful.
+
+## What makes a backlink "good"?
+
+- Relevance
+- Authoritaveness - so called "link power", also called Domain Rating
+- Anchor Text
+- Rel Attribute
+- Link Placement
+
+Don't worry about over-optimization of those, as you have no control over the link description you get.
+Rel values:
+
+- nofollow - means you DON'T want to be associated with the linked page, they build no authority
+- UGC - user generated content
+- sponsored
+  Google uses that as hints.
+  if there's not rel value, that's a "followed link". Those can boost your page rankings.
+
+Prominent links are more likely to be clicked. That changes the authority.
+
+Unfortunately, a lot of that is out of your control.
