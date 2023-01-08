@@ -216,3 +216,17 @@ Other optimizations:
 
 - Open graph meta tags, aka OG tags - it helps with how your website looks on social media
 - Schema Markup - it's how you are represented in Search Results.
+
+# Link Building
+
+The most important, and the most challenging SEO strategy.
+
+Definition: Process of getting other websites to link to a page on your website.
+Those hyperlinks are called backlinks.
+
+Usually takes a long time. But worth the effort.
+Don't try to make "friends" just to get backlinks. But your best backlinks will usually come from good relationships.
+
+A better definition: Process of building relationships with other site owners who will want to add links to your website because it enhances theirs.
+
+PageRank is used for that.
