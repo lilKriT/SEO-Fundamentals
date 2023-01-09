@@ -371,3 +371,11 @@ Why is it important?
 - Canonical Tag: `<link rel="canonical" href="https://domain/slug" />` - it tells search engines the preferred URL for a page. Solves duplicate content issues. Like http vs https. Google may ignore it.
 
 Possibly the most important part of SEO.
+
+## Technical SEO - Best Practises
+
+- Ensure your website structure follows a logical hierarchy, use Internal links
+- Ensure your pages load fast
+  - Cache (most web hosts have this)
+  - Compress images (shortpixel, squoosh)
+  - Stay on top of SEO errors (around 50 of them) - like broken links, orphan pages, duplicate content, redirect chains. Run audits. You can even use free Ahrefs tool.
