@@ -348,3 +348,26 @@ Parts:
 - Continue the conversation - a simple one liner. (never end your email with a cold hard pitch). Start a convo. "Is this something you would be open to?", "What do you think?"
 
 Only pitch your best work.
+
+# Technical SEO
+
+Process of optimizing website to help search engines find, understand and index your pages.
+
+Why is it important?
+
+- if SE can't find or read your pages, you won't be ranked at all.
+  - Avoid removing yourself from Google's index
+  - Diluting page's backlinks
+
+4 things to help you:
+
+- don't use `<meta name="robots" content="noindex">`
+- `robots.txt` - a file in your root domain. It's a set of rules for crawlers. You can have multiple files for multiple domains. They use directives like:
+  - User-agent: Googlebot
+  - Disallow: /admin
+  - Sitemap: https://domain.com/sitemap.xml
+- Sitemaps - usually XML files that list important urls in your website. You don't need to do them manually. (you can add them to google search console too)
+- Redirects - they take you from one url to another. The purpose is to consolidate signals. (for example, redirect /best-product-2018 to -best-product)
+- Canonical Tag: `<link rel="canonical" href="https://domain/slug" />` - it tells search engines the preferred URL for a page. Solves duplicate content issues. Like http vs https. Google may ignore it.
+
+Possibly the most important part of SEO.
