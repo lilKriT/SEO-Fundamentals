@@ -315,3 +315,36 @@ Simple but effective tactics:
   - Vetting: find whats relevant and not spammy. Aim for 10x more pages than you can write posts per week.
   - Email outreach: Show that you are a good person to post for them.
 - Skyscraper - find content that has a lot of links, create your own version but improve it, reach out to the authors and ask to link to you
+
+## Blogger Outreach for Backlinks
+
+Possibly the most important lesson.
+
+### Primary Objective
+
+Convince people with large audiences to talk about you.
+
+### Approaches
+
+- Shotgun - broad list of targets, blast out emails.
+- Sniper - Specific target, very personalized email.
+
+Sniper is recommended.
+Contact the author if he works for the website. Otherwise - the Editor.
+Find email on contact / about us pages. Or on hunter.io
+
+### Anatomy of a good email
+
+(use name)
+
+Parts:
+
+- Subject line - Get them to open the email. NO CLICKBAIT! Describe the purpose of your email, evoke curiosity. Example: New Data: Best (product) for (target group)
+  - Goal: open the email
+- Introduction - tell them why you email them.
+  - Goal: get them to read the rest of the email
+- Qualification and Justification - show why you are qualified, justify the pitch. Give them a good reason to do whatever you want them to do.
+- Pitch: Your ask, and value proposition. The stronger the value, the higher is the chance of getting a link. What are you giving and how is that helpful?
+- Continue the conversation - a simple one liner. (never end your email with a cold hard pitch). Start a convo. "Is this something you would be open to?", "What do you think?"
+
+Only pitch your best work.
