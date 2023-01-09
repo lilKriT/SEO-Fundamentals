@@ -295,3 +295,23 @@ Rel values:
 Prominent links are more likely to be clicked. That changes the authority.
 
 Unfortunately, a lot of that is out of your control.
+
+## Link Building Tactics for beginners
+
+3 Stages:
+
+- prospecting - finding relevant websites (find as many as you can)
+- vetting - refine the list (visit website and validate)
+- email outreach - finalize pitch and contact
+
+Simple but effective tactics:
+
+- Free PR using HARO (they get your knowledge, you get a link). Keep your emails short. Go for topics where they need multiple sources. Respond quickly. Prioritize questions where you are an expert. Follow all directions.
+  - Prospecting: none, they look for you.
+  - Vetting: quite easy.
+  - Email Outreach - just answer.
+- Guest posting / blogging - create content for another website (they get content, you can a link). Exposure to someone ELSE's audience.
+  - Prospecting: google `intitle:"write for us" some topic`. You can use hrefs toolbar or authority checker. Or use ahrefs content explorer.
+  - Vetting: find whats relevant and not spammy. Aim for 10x more pages than you can write posts per week.
+  - Email outreach: Show that you are a good person to post for them.
+- Skyscraper - find content that has a lot of links, create your own version but improve it, reach out to the authors and ask to link to you
